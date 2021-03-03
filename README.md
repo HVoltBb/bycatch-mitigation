@@ -1,3 +1,4 @@
+![cover-image](https://hvoltbb.github.io/pics/cover_pic.jpg)
 # Strong empirical evidence for cross-taxa incentives for bycatch mitigation
 
 This is a contribution to the themed article set (TS) *Challenges to incentivising avoidance of unwanted catch* on the ICES Journal of Marine Science. Much of this research was conceived after reading the thought provoking "call for papers" email sent out by the organizers of this TS, which outlined difficulties to eliminate bycatch in commercial fisheries at the global scale.
